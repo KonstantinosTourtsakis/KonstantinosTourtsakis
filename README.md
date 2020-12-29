@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
+## 💻 Languages: C/C++, HTML, CSS, Java
+## 🔭 To learn soon: Python, C#
 <!--
 **KonstantinosTourtsakis/KonstantinosTourtsakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
