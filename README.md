@@ -1,10 +1,10 @@
 # Hi there 👋 and welcome to my GitHub profile page
-## 💻 Languages: C/C++, HTML, CSS, Java, Python
-## 🔭 To learn soon: JS, C#
+## 💻 Programming: C/C++, HTML, CSS, JS, Java, Python
+## 🔭 Focused on: C/C++, Python
 ## ⚡ Interested in:
 - Video game modding
 - Desktop software development
-- A little bit in Web development
+- Web development
 <!--
 **KonstantinosTourtsakis/KonstantinosTourtsakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
